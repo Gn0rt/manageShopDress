@@ -1,0 +1,30 @@
+#find {
+    margin-top: 50px;
+}
+
+.find-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.find-body i {
+    font-size: 2rem;
+    margin-right: 10px;
+}
+
+.find-input {
+    border-bottom: 1px solid #ccc;
+}
+
+.find-input input {
+    width: 700px;
+    border: none;
+    outline: none;
+    font-size: 1.6rem;
+    padding: 5px;
+}
+
+#contain {
+    height: 100vh;
+}
